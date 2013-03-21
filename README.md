@@ -14,4 +14,7 @@ Specs:
 - SPI ADC for current sension on each channel
 - LEDs indicating motor direction
 - 5v and 3.3v logic compatible
-- 
+
+Released as 100% Open Source under
+Creative Commons Attribution-ShareAlike 3.0 Unported License
+http://creativecommons.org/licenses/by-sa/3.0/us/
